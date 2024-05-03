@@ -64,4 +64,4 @@ The model demonstrates a significant reduction in loss over the epochs, indicati
 Contributions to this ASR project are welcome! To contribute, please fork the repository and submit a pull request with your changes.
 
 ---
-- By Anushka Tonk, contact [anushkaatonk@gmail.com](anushkaatonk@gmail.com)
+- By Anushka Tonk, contact [here!](https://www.linkedin.com/in/anushka-tonk-496509230)
