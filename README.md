@@ -15,7 +15,7 @@ This project is a deep learning project inspired by DeepSpeech 2 model which foc
 -> [Contributing](#contributing)\
 
 ## Introduction
-The project utilizes TensorFlow and deep learning techniques to process audio signals in the form of .wav files and then convert them into text using the deep learning model. It includes components for signal processing, spectrogram generation, model training, and inference.
+The project utilizes TensorFlow and deep learning techniques to process audio signals in the form of .wav files and then convert them into text using the deep learning model. It includes components for signal processing, spectrogram generation, model training, and inference. Achieved a significant reduction in validation loss to 46, improving the model's performance by lowering the validation loss to 70 units on the training dataset.
 
 ## Features
 - Signal processing using Fourier transforms
