@@ -38,6 +38,17 @@ To use this ASR system, follow these steps:
 3. Evaluate the model performance using the evaluation pipeline.
 4. Use the trained model for real-time speech recognition.
 
+Input Signal:
+![download](https://github.com/user-attachments/assets/25829062-4bca-40bf-b671-38fac6b51ddb)
+
+Predicted text:
+![WhatsApp Image 2024-09-04 at 16 20 54_77ffd29d](https://github.com/user-attachments/assets/5e766cec-de7e-4f9a-bb9a-9b24769eac46)
+
+
+Original Text:
+![WhatsApp Image 2024-09-04 at 16 24 32_3ec0e801](https://github.com/user-attachments/assets/fcd38551-45c0-497e-aa4e-6c624a7c6e7e)
+
+
 ## Dataset
 The project uses the LJSpeech dataset.[ To know more about it, check this link.](https://keithito.com/LJ-Speech-Dataset/)
 
